@@ -1,2 +1,2 @@
 # CMP263_UFRGS
-Disciplina de Aprendizado de Máquina
+Trabalho Final da Disciplina de Aprendizado de Máquina
